@@ -1,8 +1,13 @@
 title: Curiosiate Wiki
 description: Various things for various projects or otherwise useful information gathered. 
 theme: just-the-docs
+color_scheme: dark
+logo: /assets/images/curiosiate_logo.png
 
 url: https://wiki.curiosiate.com
 
 aux_links:
   Main Site: https://curiosiate.com
+
+aux_links_new_tab: true
+
