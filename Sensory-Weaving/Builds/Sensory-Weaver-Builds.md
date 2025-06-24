@@ -58,7 +58,7 @@ A bit more loose and exploratory, but that shouldn't detract from the capabiliti
 
 
 ## Lockpick mk2
-(Lockpick mk2)[https://curiosiate.com/sensory-weaver-mk2-lockpick/]
+[Lockpick mk2](https://curiosiate.com/sensory-weaver-mk2-lockpick/)
 By Curiosiate, this wristband device turns modular sensor data into haptic feedback.
 
 ## Visual Impairment Aid
