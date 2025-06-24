@@ -2,7 +2,7 @@
 title: Sensory Weaver Builds
 description: There are a many types of hardware/software builds to specific sensory weavers.
 layout: page
-permalink: /Sensory-Weaving/Builds/Sensory-Weaver-Builds.md
+permalink: /Sensory-Weaving/Builds/Sensory-Weaver-Builds.html
 ---
 
 
