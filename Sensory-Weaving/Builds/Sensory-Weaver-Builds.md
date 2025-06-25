@@ -114,4 +114,5 @@ These aren't directly on a build, but more onto the usage of the devices. This m
 [Superhuman Enhancements via Implants: Beyond the Human Mind](https://www.mdpi.com/2409-9287/5/3/14)
 
 [Augmenting perception: How artificial intelligence transforms sensory substitution](https://www.sciencedirect.com/science/article/pii/S1053810022000125)
+[Oliver Schneider's site](http://oliverschneider.ca)
 
