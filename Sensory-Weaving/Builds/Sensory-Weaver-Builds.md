@@ -51,6 +51,10 @@ Enables a sense of colours to those even without sight.
 [TactorBots](https://www.ranzhourobot.com/tactorbots)
 Modular mutli-haptic style system for exploring interfaces. Not quite for sensory weaving, but also again should work well enough depending on needs.
 
+## ThermalSense
+[ThermalSense](https://dl.acm.org/doi/10.1145/3733048)
+Thermal->Auditory sensory augmentation device.
+
 ---
 
 # Hackers/DIY
