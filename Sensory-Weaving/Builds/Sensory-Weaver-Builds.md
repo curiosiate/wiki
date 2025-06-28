@@ -84,6 +84,10 @@ Glove, hand/finger based.
 [BottleNose](https://www.youtube.com/watch?v=voGVwniAL7Y)
 An ultrasonic distance sensor to haptic feedback device. Oldschool cool. 
 
+## A Haptic Timekeeping Device
+[Timeekping Device](https://courses.ideate.cmu.edu/48-339/f2019/index.html%3Fp=1013.html)
+Turn time into vibrations, gain heightened intuitive sense of chronology?
+
 
 ---
 
