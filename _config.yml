@@ -11,3 +11,46 @@ aux_links:
 
 aux_links_new_tab: true
 
+
+
+
+
+
+permalink: pretty
+heading_anchors: true
+search_enabled: true
+aux_links_new_tab: true
+
+
+# Footer
+footer_content: Copyright &copy; 2024 <a href="https://curiosiate.com">Curiosiate</a>
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y"
+
+
+
+# Call-outs 
+callouts:
+  warning:
+    title: Caution
+    color: red
+  note:
+    title: Note
+    color: blue
+
+
+# Exclude files
+exclude:
+  - CNAME
+  - Gemfile
+  - README.md
+  - LICENSE.md
+
+# Optimizations
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
