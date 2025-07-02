@@ -9,3 +9,5 @@ has_children: true
 
 # Sensory Weaving
  How does one interface, interlace signal to the mind to construct patterns of meaning?
+
+ Through the process of sensory weaving, which is what the fields of sensory substitution, expansion and addition from neuroscience are doing, to create a psychic interface, interlink.

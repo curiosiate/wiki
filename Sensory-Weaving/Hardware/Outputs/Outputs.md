@@ -2,7 +2,10 @@
 title: Outputs
 description: There are multiple entry points to the perceptual manifold of an individual
 layout: page
-
+nav_order: 1
+has_children: true
+parent: Hardware
+grand_parent: Sensory Weaving
 ---
 
 # Outputs

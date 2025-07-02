@@ -2,7 +2,10 @@
 title: Haptic Outputs
 description: haptics vibrate, buzz, zap, push, poke prod and more. Anything to do with touch, tactile perception modulation, will be in this area. 
 layout: post
-
+nav_order: 1
+has_children: true
+parent: Outputs
+grand_parent: Sensory Weaving
 ---
 
 # Overview

@@ -2,6 +2,9 @@
 title: Sensory Weaving Software
 description: What software does sensory weaving?
 layout: post
+nav_order: 1
+has_children: true
+parent: Sensory Weaving
 
 ---
 

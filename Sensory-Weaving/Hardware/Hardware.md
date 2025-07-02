@@ -2,7 +2,9 @@
 title: Hardware
 description: From full builds to sensors to electronics
 layout: page
-
+nav_order: 3
+has_children: true
+parent: Sensory Weaving
 ---
 
 # Hardware
