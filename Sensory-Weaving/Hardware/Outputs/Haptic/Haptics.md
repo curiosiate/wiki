@@ -5,7 +5,7 @@ layout: post
 nav_order: 1
 has_children: true
 parent: Outputs
-grand_parent: Sensory Weaving
+grand_parent: Hardware
 ---
 
 # Overview
