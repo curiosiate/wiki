@@ -58,6 +58,10 @@ Modular mutli-haptic style system for exploring interfaces. Not quite for sensor
 [ThermalSense](https://dl.acm.org/doi/10.1145/3733048)
 Thermal->Auditory sensory augmentation device.
 
+## Seeing-Eye Shoes
+[Seeing-Eye Shoes](https://newatlas.com/wearables/innomake-blind-shoes-cameras/)
+Put distance sensors combined with ultrasonics fed to haptic feedback into a shoe? Why not!
+
 ---
 
 # Hackers/DIY
@@ -91,6 +95,17 @@ An ultrasonic distance sensor to haptic feedback device. Oldschool cool.
 [Timeekping Device](https://courses.ideate.cmu.edu/48-339/f2019/index.html%3Fp=1013.html)
 Turn time into vibrations, gain heightened intuitive sense of chronology?
 
+## Haptic Compass Belt
+[Haptic Compass Belt](https://blinry.org/compass-belt/) 
+get a sense of north via a belt, in a different style than the pigeon belt - more outputs for feedback. 
+
+## Haptic baby monitor
+[Haptic Baby Monitor](https://www.youtube.com/watch?v=HMZgRwgJ348) 
+Turn the sounds of a baby monitor directly into vibrations, so that deaf or hard of hearing carers can hear the younglings.  
+
+## Pathfinder
+[Pathfinder](https://hackaday.io/project/2372-pathfinder-haptic-navigation)
+Ultrasonic distance sensor to haptic feedback for the blind.
 
 ---
 
