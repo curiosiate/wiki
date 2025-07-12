@@ -77,7 +77,7 @@ By Curiosiate, this wristband device turns modular sensor data into haptic feedb
 turn ultrasonic distance into tactile vibrations.
 
 ## Pigeon Belt
-[Pigeon Belt](https://www.youtube.com/watch?v=HRChZkY1ff0)
+[Pigeon Belt](https://www.youtube.com/watch?v=xySM_qSlbhk)
 a haptic compass belt project
 
 ## SomaOS 
