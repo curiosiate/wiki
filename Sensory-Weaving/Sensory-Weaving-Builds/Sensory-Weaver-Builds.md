@@ -76,6 +76,10 @@ By Curiosiate, this wristband device turns modular sensor data into haptic feedb
 [Visual Impairment Aid](https://www.instructables.com/VIA-Visual-Impairment-Aid-Haptic-Sound-Feedbac/)
 turn ultrasonic distance into tactile vibrations.
 
+## Lodestone biomagnet tools
+[Lodestone biomagnet tools](https://github.com/AxelFouges/Lodestone-biomagnet-tools)
+Open source biogmanet stimulation
+
 ## Pigeon Belt
 [Pigeon Belt](https://www.youtube.com/watch?v=xySM_qSlbhk)
 a haptic compass belt project
