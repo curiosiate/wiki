@@ -90,6 +90,7 @@ Glove, hand/finger based.
 
 ## NorthPaw
 [NorthPaw](https://web.archive.org/web/20220628061346/https://sensebridge.net/)
+more compass related haptics - this time in an ankle bracelet. 
 
 ## BottleNose
 [BottleNose](https://www.youtube.com/watch?v=voGVwniAL7Y)
