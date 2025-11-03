@@ -77,7 +77,7 @@ By Curiosiate, this wristband device turns modular sensor data into haptic feedb
 turn ultrasonic distance into tactile vibrations.
 
 ## Lodestone biomagnet tools
-[Lodestone biomagnet tools](https://github.com/AxelFouges/Lodestone-biomagnet-tools)
+[Lodestone biomagnet tools](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 Open source biogmanet stimulation
 
 ## Pigeon Belt
