@@ -62,6 +62,12 @@ Thermal->Auditory sensory augmentation device.
 [Seeing-Eye Shoes](https://newatlas.com/wearables/innomake-blind-shoes-cameras/)
 Put distance sensors combined with ultrasonics fed to haptic feedback into a shoe? Why not!
 
+## Music Jacket
+[Music Jacket](https://web.archive.org/web/20150705202941/http://mcs.open.ac.uk/esense/musicJacket.html)
+learn to play a violin via haptic feedback
+
+
+
 ---
 
 # Hackers/DIY
@@ -147,3 +153,8 @@ These aren't directly on a build, but more onto the usage of the devices. This m
 [Augmenting perception: How artificial intelligence transforms sensory substitution](https://www.sciencedirect.com/science/article/pii/S1053810022000125)
 [Oliver Schneider's site](http://oliverschneider.ca)
 
+
+
+
+[Revisiting Wittgenstein’s puzzle: hierarchical encoding and comparison facilitate learning of probabilistic relational categories](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00110/full)
+> In conclusion, the findings reported here—specifically, the finding that comparisons that systematically reveal relations that remain invariant over sub-classes of otherwise probabilistic relational categories—add to the growing body of evidence that learning relational categories depends on, or is at least greatly facilitated by, conditions that lead the learner to discover relational invariants that predict category membership.
