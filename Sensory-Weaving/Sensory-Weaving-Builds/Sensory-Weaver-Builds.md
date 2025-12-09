@@ -118,6 +118,11 @@ Turn the sounds of a baby monitor directly into vibrations, so that deaf or hard
 [Pathfinder](https://hackaday.io/project/2372-pathfinder-haptic-navigation)
 Ultrasonic distance sensor to haptic feedback for the blind.
 
+## Depth Perception Goggles
+[V1](https://www.youtube.com/watch?v=zp6FpO6Y69I)
+[v2](https://www.youtube.com/watch?v=mzCXaeUJmHE)
+turn depth arrays into haptic feedback on the forehead. 
+
 ---
 
 # Resources
